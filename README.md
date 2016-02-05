@@ -1,3 +1,6 @@
+Authorship atribution is a supervised binary classifier which predicts a piece of text to be the writings of a particular author among a group of authors. For a particular task to identify Gina Kolata's writing among her peers, the system achieved an accuracy of 94.27% on a test set of 1346 excerpts from New York Times articles.
+
+These intructions will help you get started.
 1) Run the following Python functions:
 
 	generate_training_labels() to generate train_data_vector_label  [training Labels]
